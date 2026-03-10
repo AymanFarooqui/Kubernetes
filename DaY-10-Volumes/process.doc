@@ -60,4 +60,4 @@ reclaim policy : retain # it will persistant
 #Types Of Vlume bindings
 
 volumebinding : Immediate # this is default one ,pv is created immdeialty 
-volumebinding : WaitForFirstConsumer  #pv will create only any pod will claim the stoarage only 
+volumebinding : WaitForFirstConsumer  #pv will create only any pod will claim the stoarage only..
